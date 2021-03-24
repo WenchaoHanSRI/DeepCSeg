@@ -16,3 +16,15 @@ For Mac/Linux users, the executable file needs to be generated from the source c
 
 The DeepCSeg plug-in.py is the python plug-in code for use in CellProfiler.
 
+# Citation
+Use this bibtex to cite this repository:
+
+@misc{DeepCSeg_2021,
+  title={DeepCSeg, an CellProfiler plug-in for whole cell segmentation for the multiplexed images},
+  author={Wenchao Han},
+  year={2021},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/WenchaoHanSRI/DeepCSeg}},
+}
+
