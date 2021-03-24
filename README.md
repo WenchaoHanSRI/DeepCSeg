@@ -1,7 +1,7 @@
 # DeepCSeg
 Source code for DeepCSeg plug-in for CellProfiler
 
-Author: Wenchao Han, Biomarker Imaging Research Laboratory(BIRL), Sunnybrook Research Institute, Medical Biophysics, University of Toronto, Toronto, ON, Canada.
+Author: Wenchao Han, Biomarker Imaging Research Laboratory(BIRL) https://sunnybrook.ca/research/content/?content=sri-cerigt-birl-about, Sunnybrook Research Institute, Medical Biophysics, University of Toronto, Toronto, ON, Canada.
 email: wenchao.han@sri.utoronto.ca
 
 The plug-in package for implementation can be found: https://drive.google.com/drive/folders/1WBYFH9bf89s-xjQNZHKSGdFov08h0iFG?usp=sharing.
