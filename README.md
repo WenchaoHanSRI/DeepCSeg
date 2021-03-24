@@ -1,7 +1,8 @@
 # DeepCSeg
 Source code for DeepCSeg plug-in for CellProfiler
 
-Author: Wenchao Han, Medical Biophysics, University of Toronto, Biomarker Imaging Research Laboratory, Sunnybrook Research Institute, Toronto. email: wenchao.han@sri.utoronto.ca
+Author: Wenchao Han, Biomarker Imaging Research Laboratory(BIRL), Sunnybrook Research Institute, Medical Biophysics, University of Toronto, Toronto, ON, Canada.
+email: wenchao.han@sri.utoronto.ca
 
 The plug-in package for implementation can be found: https://drive.google.com/drive/folders/1WBYFH9bf89s-xjQNZHKSGdFov08h0iFG?usp=sharing.
 Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCSeg: Whole cell segmentation of immunofluorescence multiplexed images using Mask R-CNN'.
