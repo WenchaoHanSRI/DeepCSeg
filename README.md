@@ -20,7 +20,7 @@ The DeepCSeg plug-in.py is the python plug-in code for use in CellProfiler.
 Use this bibtex to cite this repository:
 
 @misc{DeepCSeg_2021,
-  title={DeepCSeg, an CellProfiler plug-in for whole cell segmentation for the multiplexed images},
+  title={DeepCSeg, a CellProfiler plug-in for whole cell segmentation for immunofluorescence multiplexed images},
   author={Wenchao Han},
   year={2021},
   publisher={Github},
