@@ -10,10 +10,7 @@ The video for implementation on an example case can be found: https://youtu.be/g
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
 Example nuclar(blue contours) and cell(orange contours) segmentation for an ovarian cancer tissue sample on a synthesized color image(synthesized from the DAPI and Na+K+ATPase) image: 
-.center[
-
 ![My image](https://user-images.githubusercontent.com/60233311/115458278-23816080-a1eb-11eb-8b3b-7879bf9a474d.png)
-]
 
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
 
