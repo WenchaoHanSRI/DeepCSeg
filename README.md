@@ -9,6 +9,8 @@ Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCS
 The video for implementation on an example case can be found: https://youtu.be/gpLDjPQJF8Q.
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
+![image](https://user-images.githubusercontent.com/60233311/115457644-6c84e500-a1ea-11eb-94db-4a56fd3d5847.png)
+
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
 
 The DeepCSeg.py is the source code for generating the DeepCSeg executable. To generate the executable for implementation, users may execute the code 'pyinstaller -F DeepCSeg.py'. The 'pyinstaller' and 'flask' need to be installed in the environment. This source code includes functions from MaskRCNN implementation developed by Matterport Inc. under the MIT license. The environment needs to meet the requirements for the MaskRCNN implementation. Please refer https://github.com/matterport/Mask_RCNN for configuration details.
