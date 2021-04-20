@@ -5,9 +5,7 @@ Author: Wenchao Han, Biomarker Imaging Research Laboratory (BIRL) https://sunnyb
 email: wenchao.han@sri.utoronto.ca
 
 This repository provides the code for whole cell and nuclear segmentation for the multiplexed images using two channels of stained images (i.e. DAPI and Na+K+ATPase). This automated software is also distributed as a CellProfiler plug-in for direct use. 
-
 The plug-in package for the implementation can be found: https://drive.google.com/drive/folders/1WBYFH9bf89s-xjQNZHKSGdFov08h0iFG?usp=sharing.
-Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCSeg: Whole cell segmentation of immunofluorescence multiplexed images using Mask R-CNN'.
 The video for implementation on an example case can be found: https://youtu.be/gpLDjPQJF8Q.
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
