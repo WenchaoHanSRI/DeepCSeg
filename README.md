@@ -13,7 +13,9 @@ Example nuclear(blue contours) and cell(orange contours) segmentation for an ova
 ![image](https://user-images.githubusercontent.com/60233311/115459866-2aa96e00-a1ed-11eb-9172-f8fff36dc7ed.png)
 
 Example of the input DAPI and Na+K+ATPase images:
+
 ![Spot2_ROI2_DAPI](https://user-images.githubusercontent.com/60233311/115460234-a4d9f280-a1ed-11eb-8371-a4cc2fba2068.png)
+
 ![Spot2_ROI2_NaKATPase](https://user-images.githubusercontent.com/60233311/115460247-a86d7980-a1ed-11eb-90ac-7a0bd9b85e7b.png)
 
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
