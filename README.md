@@ -9,8 +9,12 @@ Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCS
 The video for implementation on an example case can be found: https://youtu.be/gpLDjPQJF8Q.
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
-Example nuclar(blue contours) and cell(orange contours) segmentation for an ovarian cancer tissue sample on a synthesized color image(synthesized from the DAPI and Na+K+ATPase) image: 
+Example nuclear(blue contours) and cell(orange contours) segmentation for an ovarian cancer tissue sample on a synthesized color image(synthesized from the DAPI and Na+K+ATPase) image: 
 ![image](https://user-images.githubusercontent.com/60233311/115459866-2aa96e00-a1ed-11eb-9172-f8fff36dc7ed.png)
+
+Example of the input DAPI and Na+K+ATPase images:
+![Spot2_ROI2_DAPI](https://user-images.githubusercontent.com/60233311/115460234-a4d9f280-a1ed-11eb-8371-a4cc2fba2068.png)
+![Spot2_ROI2_NaKATPase](https://user-images.githubusercontent.com/60233311/115460247-a86d7980-a1ed-11eb-90ac-7a0bd9b85e7b.png)
 
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
 
