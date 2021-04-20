@@ -6,7 +6,7 @@ email: wenchao.han@sri.utoronto.ca
 
 The plug-in package for implementation can be found: https://drive.google.com/drive/folders/1WBYFH9bf89s-xjQNZHKSGdFov08h0iFG?usp=sharing.
 Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCSeg: Whole cell segmentation of immunofluorescence multiplexed images using Mask R-CNN'.
-The video for implementation on an example case can be found: https://drive.google.com/file/d/1mxQ3yOWj45AAwUwi439mOz207A5SEtjD/view?usp=sharing.
+The video for implementation on an example case can be found: https://youtu.be/gpLDjPQJF8Q.
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
