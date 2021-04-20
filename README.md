@@ -1,22 +1,25 @@
 # DeepCSeg
 Source code for DeepCSeg plug-in for CellProfiler
 
-Author: Wenchao Han, Biomarker Imaging Research Laboratory(BIRL) https://sunnybrook.ca/research/content/?content=sri-cerigt-birl-about, Sunnybrook Research Institute, Medical Biophysics, University of Toronto, Toronto, ON, Canada.
+Author: Wenchao Han, Biomarker Imaging Research Laboratory (BIRL) https://sunnybrook.ca/research/content/?content=sri-cerigt-birl-about, Sunnybrook Research Institute, Medical Biophysics, University of Toronto, Toronto, ON, Canada.
 email: wenchao.han@sri.utoronto.ca
 
-The plug-in package for implementation can be found: https://drive.google.com/drive/folders/1WBYFH9bf89s-xjQNZHKSGdFov08h0iFG?usp=sharing.
+This repository provides the code for whole cell and nuclear segmentation for the multiplexed images using two channels of stained images (i.e. DAPI and Na+K+ATPase). This automated software is also distributed as a CellProfiler plug-in for direct use. 
+
+The plug-in package for the implementation can be found: https://drive.google.com/drive/folders/1WBYFH9bf89s-xjQNZHKSGdFov08h0iFG?usp=sharing.
 Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCSeg: Whole cell segmentation of immunofluorescence multiplexed images using Mask R-CNN'.
 The video for implementation on an example case can be found: https://youtu.be/gpLDjPQJF8Q.
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
-Example nuclear(blue contours) and cell(orange contours) segmentation for an ovarian cancer tissue sample on a synthesized color image(synthesized from the DAPI and Na+K+ATPase) image: 
+Example nuclear (blue contours) and cell (orange contours) segmentation for an ovarian cancer tissue sample on a synthesized color image(synthesized from the DAPI and Na+K+ATPase images): 
 ![image](https://user-images.githubusercontent.com/60233311/115459866-2aa96e00-a1ed-11eb-9172-f8fff36dc7ed.png)
 
-Example of the input DAPI and Na+K+ATPase images:
+Input DAPI and Na+K+ATPase images for the example above:
 
 ![Spot2_ROI2_DAPI](https://user-images.githubusercontent.com/60233311/115460234-a4d9f280-a1ed-11eb-8371-a4cc2fba2068.png)
 
 ![Spot2_ROI2_NaKATPase](https://user-images.githubusercontent.com/60233311/115460247-a86d7980-a1ed-11eb-90ac-7a0bd9b85e7b.png)
+
 
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
 
