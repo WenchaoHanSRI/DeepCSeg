@@ -9,7 +9,8 @@ Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCS
 The video for implementation on an example case can be found: https://youtu.be/gpLDjPQJF8Q.
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
-![image](https://user-images.githubusercontent.com/60233311/115457644-6c84e500-a1ea-11eb-94db-4a56fd3d5847.png)
+![caption](https://user-images.githubusercontent.com/60233311/115458278-23816080-a1eb-11eb-8b3b-7879bf9a474d.png)
+
 
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
 
