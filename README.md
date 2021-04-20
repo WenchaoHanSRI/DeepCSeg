@@ -9,7 +9,15 @@ Details for methodology and usability of DeepCSeg can be found in paper: 'DeepCS
 The video for implementation on an example case can be found: https://youtu.be/gpLDjPQJF8Q.
 The video for Plug-in installation and setup can be found: https://youtu.be/sirRJc-A4tc.
 
-![caption](https://user-images.githubusercontent.com/60233311/115458278-23816080-a1eb-11eb-8b3b-7879bf9a474d.png)
+.center[
+
+![My image](https://user-images.githubusercontent.com/60233311/115458278-23816080-a1eb-11eb-8b3b-7879bf9a474d.png)
+
+.caption[
+**Ovarian cancer tissue example** Image caption
+]
+
+]
 
 
 This repository includes two code files: 1) DeepCSeg.py 2) DeepCSeg plug-in.py
